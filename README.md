@@ -1,2 +1,2 @@
 # self-attention
-基于自注意力机制的说话人身份识别/Speaker identification based on self-attention/Voxceleb1/数据提取到mapping。dataprocess文件夹中的py文件是对原始音频进行处理，将音频文件处理为梅尔频域，并将文件名、len等信息记录到与李宏毅教授的hw4作业中的模型当中
+基于自注意力机制的说话人身份识别/Speaker identification based on self-attention/Voxceleb1/数据提取到mapping。dataprocess文件夹中的py文件是对原始音频进行处理，将音频文件处理为梅尔频域，并将文件名、len等信息记录到与李宏毅教授的hw4作业中的模型当中，counter.py文件是统计识别结果的正确率。
